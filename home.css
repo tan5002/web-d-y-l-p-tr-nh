@@ -300,6 +300,8 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
+
+    
 }
 .contact{
     position: relative;
@@ -523,7 +525,7 @@ footer{
         margin-top: 100px;
     }
     .input-box input{
-        width: 50%;
+        width: 40%;
     }
     .btn{
         padding: 20px;
