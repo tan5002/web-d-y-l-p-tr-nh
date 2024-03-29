@@ -534,6 +534,8 @@ footer{
         width: 70%;
     }
     #footer{
+        height: 100px;
+        margin: 0 auto;
         margin-top: 60px;
         font-size: 20px;
     }
