@@ -399,6 +399,7 @@ button:disabled{
 
 footer{
     background-color: yellow;
+    margin-top: 50px;
 }
 #footer{
     height: 60px;
