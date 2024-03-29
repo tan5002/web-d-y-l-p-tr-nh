@@ -56,7 +56,6 @@ nav>a{
     margin-right: 20px;
 }
 .menu a:hover{
-    text-decoration: underline;
     background: #1b9bff;
     transition: .5s;
 }
