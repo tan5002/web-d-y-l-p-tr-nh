@@ -303,7 +303,7 @@ section{
 .contact{
     position: relative;
     width: 50%;
-    min-height: 600px;
+    height: 600px;
     background: transparent;
     border-radius: 20px;
     background-color: #023272;
