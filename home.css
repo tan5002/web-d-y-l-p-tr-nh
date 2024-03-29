@@ -231,7 +231,6 @@ section{
 #seemore:hover{
     font-weight: bolder;
     color: yellow;
-    text-decoration: underline;
 }
 .col1{
     width: 22%;
