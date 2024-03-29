@@ -532,9 +532,9 @@ footer{
     }
     .input-box input{
         width: 70%;
+        height: 100px;
     }
     #footer{
-        height: 100px;
         margin: 0 auto;
         margin-top: 60px;
         font-size: 20px;
