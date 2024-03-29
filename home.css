@@ -453,6 +453,10 @@ footer{
     #section3 .container .col1{
         width: 100%;
     }
+    .menu{
+        position: sticky;
+        top: 0;
+    }
     .menu i{
         display: block;
         font-size: 25px;
