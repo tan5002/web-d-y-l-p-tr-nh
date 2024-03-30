@@ -317,6 +317,7 @@ section{
 }
 form{
     background-color: #023272;
+    borber-radius: 30px;
 }
 .contact .input-box{
     position: relative;
