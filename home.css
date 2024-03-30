@@ -365,7 +365,7 @@ form{
     text-align: center;
 }
 .row .btn{
-    width: 70px;
+    width: 100px;
     height: 40px;
     background: #fff;
     font-size: 20px;
@@ -529,9 +529,6 @@ footer{
     }
     .input-box input{
         width: 40%;
-    }
-    .btn{
-        padding: 20px;
     }
     .input-box input{
         width: 70%;
